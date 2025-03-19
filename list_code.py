@@ -15,3 +15,4 @@ print(mybag)
 mybag[3] = 'cat'
 print(mybag)
 
+anothet_list = []
